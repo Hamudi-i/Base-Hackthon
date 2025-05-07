@@ -1,0 +1,2 @@
+# Base-Hackthon
+Decentralized Notion
