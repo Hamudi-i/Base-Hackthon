@@ -1,0 +1,8 @@
+/* styles/globals.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: #ccc;
+  font-family: sans-serif;
+}

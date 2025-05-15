@@ -1,2 +1,1 @@
-# Base-Hackthon
-Decentralized Notion
+This is the initial push
