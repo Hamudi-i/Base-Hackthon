@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { useState } from 'react';
 
 export default function WalletPopup({ onClose }: { onClose: () => void }) {
   const connectWallet = (type: string) => {
